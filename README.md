@@ -13,4 +13,4 @@ View the attached image file to see where to insert the diode - If you don't wan
 "Masse" on the circuit board is connected to the 5V supply's ground as well as the radio's programming ground.<br>
 "RXD" on the cuircuit board is connected to your radio's programming interface pin.
 
-I use this device for programming Motorola Radius GM300 mobiles as well as GM300 and P110 handhelds.
+I use this device for programming Motorola Radius GM300 mobiles as well as GP300 and P110 handhelds.
