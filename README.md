@@ -8,7 +8,7 @@ https://www.pollin.de/p/bausatz-rs232-ttl-wandler-810036
 
 Schematics for this kit can also be found at the link above.
 
-View the attached image file to see where to insert the diode - If you don't want to dedicate the interface to radio programming, the diode can just simply be screwed into the binding posts for TXD and RXD. The CTS and RTS are not used and left unconnected.
+View the attached image file to see where to insert the diode. If you don't want to dedicate the interface to radio programming, the diode can just simply be screwed into the binding posts for TXD and RXD. The CTS and RTS are not used and left unconnected.
 
 "Masse" on the circuit board is connected to the 5V supply's ground as well as the radio's programming ground.<br>
 "RXD" on the circuit board is connected to your radio's programming interface pin.
